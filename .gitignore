@@ -1,0 +1,7 @@
+main.py
+main.exe
+**/__pycache__/
+.idea/
+main.build/
+main.dist/
+main.onefile-build/
